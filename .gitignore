@@ -1,4 +1,3 @@
-tmp/app.db
-db
+db/app.db
 node_modules
 dist
