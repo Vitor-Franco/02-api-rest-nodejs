@@ -1,6 +1,17 @@
-db/app.sqlite
+# Dependencies
 node_modules
-dist
+
+# Database
+db/*.sqlite
+db/*.db
+
+# Enviroment
 .env
-.DS_STORE
 .env.test
+
+# Build
+build
+
+# Other
+.DS_STORE
+.vscode
